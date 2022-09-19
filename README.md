@@ -16,17 +16,17 @@ Our task is to help **Dana** with building a webpage in which others can access 
 
 ## Results
 
-The webpage **[UFO Sightings - The Truth is Out There](https://amylio.github.io/UFOs/)** is being created. 
+The webpage **[UFO Sightings - The Truth is Out There](https://github.com/tiffanylin706/UFOs/blob/1000ab722d6f805b8dbbc5c1c6200651f0791d91/index.html)** is being created. 
 
-![webpage](https://github.com/amylio/UFOs/blob/main/static/images/finalwebpage.png)
+![webpage](https://github.com/tiffanylin706/UFOs/blob/1000ab722d6f805b8dbbc5c1c6200651f0791d91/static/images/webpage.png)
 
  **"Filter Search"** section has been added. You can filter by one or all of the search criteria shown. 
 
-![filtersearch](https://github.com/amylio/UFOs/blob/main/static/images/FilterCity.png)
+![filtersearch](https://github.com/tiffanylin706/UFOs/blob/1000ab722d6f805b8dbbc5c1c6200651f0791d91/static/images/filtersearch.png)
 
 For example, if you add a shape, the table will update filtering further to only display the information containing that shape.
 
-![shape](https://github.com/amylio/UFOs/blob/main/static/images/filtercityshape.png)
+![shape](https://github.com/tiffanylin706/UFOs/blob/1000ab722d6f805b8dbbc5c1c6200651f0791d91/static/images/shape.png)
 
 ## Summary
 
